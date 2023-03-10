@@ -4,11 +4,9 @@
 # Site settings
 title: Royal Cat Sitting
 description: |
-  Another fine responsive  ddddd
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Namddde # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+  Copyright Royal Cat Sitting 
+owner: Royal Cat Sitting # or company name
+first_published: 2023 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.larmor.com/jekyll-demo/" # the base hostname & protocol for your site
